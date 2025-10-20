@@ -45,4 +45,8 @@ npm install
 npm run dev
 ```
 
-### Crea un archivo .env en la raíz del backend y modificalo
+### Crea un archivo .env en la raíz del backend y modificalo con tus datos
+Consigue un API Key de Gemini para agregarla al archivo
+```bash
+# .env
+GEMINI_API_KEY=tu_clave_aqui

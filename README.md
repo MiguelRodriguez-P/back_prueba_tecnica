@@ -1,6 +1,6 @@
-# 🚀 Prueba Técnica Fullstack IA
+# 🚀 Prueba Técnica Backend IA
 
-Proyecto fullstack desarrollado con **Node.js**, **Express**, **PostgreSQL**, **Sequelize**, **Swagger**, **Docker**, **React**, **Vite** y **Axios**.  
+Proyecto fullstack desarrollado con **Node.js**, **Express**, **PostgreSQL**, **Sequelize**, **Swagger**, **Docker**.  
 Incluye endpoints de análisis con **IA generativa (Gemini)**, documentación con Swagger y visualización de datos con Recharts.
 
 ---

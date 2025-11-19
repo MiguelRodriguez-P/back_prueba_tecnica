@@ -34,8 +34,7 @@ cd back_prueba_tecnica
 
 ### 🐳 Ejecutar con Docker
 ```bash
-git clone https://github.com/MiguelRodriguez-P/back_prueba_tecnica.git
-cd back_prueba_tecnica
+docker-compose up --build
 ```
 
 ### 🧰 Ejecución manual (Sin Docker)
